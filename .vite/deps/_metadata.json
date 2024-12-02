@@ -1,8 +1,46 @@
 {
-  "hash": "a6a983d4",
+  "hash": "2704e67a",
   "configHash": "1cb1c5ee",
-  "lockfileHash": "e3b0c442",
-  "browserHash": "92e39919",
-  "optimized": {},
-  "chunks": {}
+  "lockfileHash": "2929859d",
+  "browserHash": "eb36c966",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "e700be5e",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1e23e8b9",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "8cbe4353",
+      "needsInterop": false
+    },
+    "date-fns": {
+      "src": "../../node_modules/date-fns/index.js",
+      "file": "date-fns.js",
+      "fileHash": "8978a256",
+      "needsInterop": false
+    },
+    "idb": {
+      "src": "../../node_modules/idb/build/index.js",
+      "file": "idb.js",
+      "fileHash": "165b4432",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-TWJRYSII": {
+      "file": "chunk-TWJRYSII.js"
+    },
+    "chunk-DC5AMYBS": {
+      "file": "chunk-DC5AMYBS.js"
+    }
+  }
 }
